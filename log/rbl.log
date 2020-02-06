@@ -1,0 +1,7 @@
+2019-08-05 17:49:52 INFO  Directory:117 - Reading from custom properties
+2019-08-05 17:49:52 INFO  Directory:260 - Setting Reports Dir---C:/Reports
+2019-08-05 17:49:52 INFO  Directory:261 - Setting Results Dir---C:/Reports\Results
+2019-08-05 17:49:59 INFO  TestNGClass:122 - before set driver Thread -----11------------driver------------ChromeDriver: chrome on XP (d5d34f3735daa1fcbd2c41fcb7061417)
+2019-08-05 17:49:59 INFO  TestNGClass:126 - after set driver Thread -----11------------driver------------ChromeDriver: chrome on XP (d5d34f3735daa1fcbd2c41fcb7061417)
+2019-08-05 17:50:18 INFO  TestNGClass:156 - Thread @ first close-----11------------driver------------ChromeDriver: chrome on XP (d5d34f3735daa1fcbd2c41fcb7061417)
+2019-08-05 17:50:18 INFO  TestNGClass:185 - Thread @ close-----11------------driver------------ChromeDriver: chrome on XP (d5d34f3735daa1fcbd2c41fcb7061417)

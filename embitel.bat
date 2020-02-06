@@ -1,0 +1,1 @@
+java -jar -Dpkd.reporter.config=C:\workspace\PKD\Pkd\testcases\pkd.properties -DlogfileLoc=C:\log -Dpkd.execution.parseq=sequential C:\workspace\PKD\pkdqa\target\pkdqa-jar-with-dependencies.jar
