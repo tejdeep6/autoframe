@@ -1,0 +1,20 @@
+package jAVA;
+
+public class stringreverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		String test="abcd";
+		int ab =test.length();
+		String reverse="";
+		int i;
+		for(i>=0; i= ab-1; i--)
+		{
+			
+		}
+		
+				
+	}
+
+}

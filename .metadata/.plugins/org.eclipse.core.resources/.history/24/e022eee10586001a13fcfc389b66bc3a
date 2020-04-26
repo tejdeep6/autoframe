@@ -1,0 +1,18 @@
+package jAVA;
+
+public class stringreverse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		public static void main(String []args){
+	        string str= "tejdeep";
+	        string t="";
+	        for(int i=str.length-1; i>=0; i--)
+	        {
+	            t=t+charAt(i);
+	        }
+	    System.out.Println(t);
+	        
+	     }
+
+}
